@@ -1,0 +1,6 @@
+faiss-cpu
+transformers
+Pillow
+pypdf
+langchain
+streamlit
