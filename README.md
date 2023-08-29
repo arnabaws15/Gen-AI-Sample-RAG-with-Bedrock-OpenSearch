@@ -19,7 +19,7 @@ You can use the notebook in this repo to cover the above steps
 
 Env Variables for the chatbot to work! 
 
-export BWB_REGION_NAME=<Region>
-export BWB_ENDPOINT_URL=h<Bedrock Endpoint>
-export BWB_PROFILE_NAME=<profile for aws cli>
-export BWB_AOS_DOMAIN_ENDPOINT=<Opensearch Domain Endpoint>
+- export BWB_REGION_NAME=`Region`
+- export BWB_ENDPOINT_URL=`Bedrock Endpoint`
+- export BWB_PROFILE_NAME=`profile for aws cli`
+- export BWB_AOS_DOMAIN_ENDPOINT=`Opensearch Domain Endpoint`
