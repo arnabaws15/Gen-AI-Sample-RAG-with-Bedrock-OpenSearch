@@ -3,7 +3,7 @@ The architecture is using Retrieval Augmented Generation (RAG) where the LLM is 
 
 This repo assumes you have a working Opensearch cluster and access to Bedrock Anthorpic claude v2 LLM
 
-Pre-requisites:
+### Pre-requisites:
 
 1)
 - Create an Opensearch cluster
@@ -25,3 +25,7 @@ You can use the notebook in this repo to cover the above steps
 - export BWB_ENDPOINT_URL=`Bedrock Endpoint`
 - export BWB_PROFILE_NAME=`profile for aws cli`
 - export BWB_AOS_DOMAIN_ENDPOINT=`Opensearch Domain Endpoint`
+
+### Architecture
+
+![image](https://github.com/arnabaws15/Gen-AI-Sample-RAG-with-Bedrock-OpenSearch/assets/92410812/4616f16e-767e-421d-969d-0ed0bde0b22e)
